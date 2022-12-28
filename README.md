@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Market Place / Online Store App**
+- 🔭 I’m currently working on **flutter-todo-app-tasks-management**
 
 - 🌱 I’m currently learning **Flutter**
 
